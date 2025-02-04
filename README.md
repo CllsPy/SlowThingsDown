@@ -1,6 +1,6 @@
 # What is SlowThingsDown?
 
-![image](https://github.com/user-attachments/assets/7903a128-31ed-4f9f-a348-b1033c10fb17)
+![image](https://github.com/user-attachments/assets/4c0b3cca-ad64-42bf-9c54-3d48f24a74ca)
 
 
 You probably realized, like me, that we're living our days in a hurry. Which is funny, because life is meant to be slow, since you'll die in the end. That's why I created SlowThingsDown, inspired by a professor who asked his students to go to a nearby museum and stare at a painting of their choice for three hours.
