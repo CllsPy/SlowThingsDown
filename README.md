@@ -8,11 +8,10 @@ Why? That's an interesting question. Maybe because we don't really measure how b
 
 The SlowThingsDown project includes this site, where you can sit in your chair, select any painting you want, set a timer, and start measuring how good your focus is. Isn't that so fun?
 
+## Tradução
 
 Você provavelmente percebeu, assim como eu, que estamos vivendo nossos dias com pressa. O que é engraçado, porque a vida deveria ser devagar, já que no final você vai morrer. Foi por isso que criei o SlowThingsDown, inspirado por um professor que pediu aos seus alunos que fossem a um museu próximo e olhassem para uma pintura de sua escolha por três horas.
 
 Por quê? Essa é uma pergunta interessante. Talvez porque a gente não meça realmente o quanto o nosso foco piorou. Mas, se você, como eu, não tem acesso a um museu ou simplesmente não gosta de sair de casa e ficar olhando para uma pintura por três horas (enquanto as pessoas pensam que você é louco), você pode ser "louco" na sua própria casa! É por isso que este projeto existe.
 
 O projeto SlowThingsDown inclui este site, onde você pode sentar na sua cadeira, selecionar qualquer pintura que quiser, definir um timer e começar a medir o quão bom é o seu foco. Não é divertido?
-
---- 
